@@ -6,7 +6,7 @@ circles = 20
 turtle.speed(300)
 
 turtle.colormode(255)
-
+#move
 def move(length, angle):
                 turtle.right(angle)
                 turtle.forward(length)
