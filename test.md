@@ -1,5 +1,5 @@
 
- ##-------------------------------------------------------------hsadgha--------------------------------------------------##
+ ## -------------------------------------------------------------hsadgha--------------------------------------------------##
 dshagdahsdhashdasda
 the sample.Roseto Valfortore lies one hundred miles southeast of Rome in the Apennine foothills of theItalian province of Foggia. In the style of medieval villages, thetown is organized around a largecentral square. Facing the square is the Palazzo Marchesale, the palace of the Saggese family,nce the great landowner of those parts.An archway to one side leads to a church, theMadonna del CarmineOur Lady of Mount Carmine. Narrow stone steps run up the hillside,
 flanked by closely clustered two-story stone houses with red-
