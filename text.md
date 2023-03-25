@@ -24,7 +24,7 @@ flood. In 1894 alone, some twelve hundred Rosetans applied for passports to Amer
 entire streets of their old village abandoned
 
 [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [x] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 - [ ] \(Optional) Open a followup issue
 
