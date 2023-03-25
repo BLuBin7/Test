@@ -40,11 +40,11 @@ A footnote can also have multiple lines[^2].
   
 [^3]: gggsadjhabsjdhashjdas
   
+ @dsafgdfga
   
+  @github/support What do you think about these updates?
   
-  
-  
-  
+  [Contribution guidelines for this project](docs/CONTRIBUTING.md)
   
    First list item
      - First nested list item
