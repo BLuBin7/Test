@@ -22,3 +22,7 @@ Roseto about the promise of the New World, and soon one group of Rosetans after 
 packed their bags and headed for Pennsylvania, until the initial stream of immigrants became a
 flood. In 1894 alone, some twelve hundred Rosetans applied for passports to America, leaving
 entire streets of their old village abandoned
+
+[x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
