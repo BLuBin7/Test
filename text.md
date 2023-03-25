@@ -6,6 +6,9 @@
 
 ```
 ussing namespace std
+int main(){
+cout<<"sbahgs";
+}
 ```
 `hsl(212, 92%, 45%)`
 
