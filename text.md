@@ -55,4 +55,4 @@ A footnote can also have multiple lines[^2].
      - First nested list item
        - Second nested list item
        
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+The background color is `#RRGGBB` for light mode and `#0969DA` for dark mode.
