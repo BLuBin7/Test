@@ -47,7 +47,10 @@ A footnote can also have multiple lines[^2].
   [Contribution guidelines for this project](docs/CONTRIBUTING.md)
   
   
-  [Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+  ![image](https://user-images.githubusercontent.com/121689786/227722208-183923e8-9604-4ccd-9b46-fd3bda80567a.png)
+
+  
   
    First list item
      - First nested list item
