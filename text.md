@@ -38,7 +38,7 @@ A footnote can also have multiple lines[^2].
   This is a second line.
   
   
- [^3] : ggg
+[^3]: ggg
   
   
   
